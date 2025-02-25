@@ -1,8 +1,7 @@
--- ===================================================================
--- DATA FOR MASSACHUSETTS 2024 FLU SHOT DASHBOARD (TABLEAU)
--- ===================================================================
+`#0969DA`
+DATA FOR MASSACHUSETTS 2024 FLU SHOT DASHBOARD (TABLEAU)
 
--- This query extracts data for active patients (AP) eligible for flu shots in 2024.
+This query extracts data for active patients (AP) eligible for flu shots in 2024.
 -- 
 -- Criteria for Active Patients (AP):
 --   1. Must be at least 6 months old by December 15, 2024.
