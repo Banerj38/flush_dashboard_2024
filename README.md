@@ -1,11 +1,7 @@
-`#0969DA` <span style="color: #FF5733;"
-<span style="color: #FF5733;"
-DATA FOR MASSACHUSETTS 2024 FLU SHOT DASHBOARD (TABLEAU)
+# Seasonal FLU SHOT DASHBOARD 2024
 
-This query extracts data for active patients (AP) eligible for flu shots in 2024.
--- 
--- Criteria for Active Patients (AP):
---   1. Must be at least 6 months old by December 15, 2024.
---   2. Must be alive (i.e., no recorded death date).
---   3. Must have visited a healthcare facility in or after 2022.
---   4. Only encounters up to December 31, 2024, are considered.
+[![Dashboard 1](https://github.com/user-attachments/assets/400b6761-4bf8-49ae-a422-9fad38bac85c)](https://public.tableau.com/app/profile/swati.roy1784/viz/SeasonalFluShotDashboard2024/Dashboard1)
+
+
+The main aim of this project is to do an exploratory analysis of 2024 flu shot data in a health care institution. For this, I have generated fictitous patient data and their electronic health records using [Synthea](https://synthea.mitre.org/about). I have used PostgreSQL for processing the data and Tableau Public for creating the dashboard.
+
