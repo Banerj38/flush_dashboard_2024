@@ -1,4 +1,4 @@
-`#0969DA`
+`#0969DA` <span style="color: #FF5733;"
 <span style="color: #FF5733;"
 DATA FOR MASSACHUSETTS 2024 FLU SHOT DASHBOARD (TABLEAU)
 
